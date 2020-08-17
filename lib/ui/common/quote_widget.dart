@@ -7,11 +7,16 @@ class QuoteWidget extends StatelessWidget {
   final Color backgroundColor;
   final String quote, author;
 
-  const QuoteWidget({Key key, this.backgroundColor, this.quote, this.author}) : super(key: key);
+  const QuoteWidget({
+    Key key,
+    @required this.backgroundColor,
+    @required this.quote,
+    @required this.author,
+      }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    ScreenUtil.init(context, width: 350, height: 660);
+    
     return Container(
       width: ScreenUtil.screenWidthDp,
       color: backgroundColor,
