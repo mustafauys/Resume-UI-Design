@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quotes_app/ui/common/quote_widget.dart';
+import 'package:quotes_app/ui/common/pages/quote_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,16 +11,13 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: Scaffold(
-        body: QuoteWidget(
-          quote: 'Its just me',
-          author: 'Prateek Sharma',
-          backgroundColor: Colors.redAccent,
-        ),
+        body: QuoteScreen(),
       ),
     );
   }
