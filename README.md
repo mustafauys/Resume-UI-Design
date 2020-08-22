@@ -1,6 +1,8 @@
-# quotes_app
+# template
 
-A new Flutter project.
+Mustafa Uysal Resume UI Design developed in Flutter.
+
+This sample is easy to customize, Just need to change the description of resume in just one file and our resume is ready to go.
 
 ## Getting Started
 
