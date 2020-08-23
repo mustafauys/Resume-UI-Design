@@ -53,36 +53,28 @@ class MustafaResumeContent {
       ],
       contentSkills: [
         ContentSkill(
-          name: "Java",
-          level: 0.8,
-        ),
-        ContentSkill(
-          name: "Kotlin",
-          level: 0.7,
-        ),
-        ContentSkill(
           name: "Flutter",
+          level: 0.8,
+        ),
+        ContentSkill(
+          name: "Java",
           level: 0.7,
         ),
         ContentSkill(
-          name: "C#",
-          level: 0.6,
-        ),
-        ContentSkill(
-          name: "React Native",
-          level: 0.4,
-        ),
-        ContentSkill(
-          name: "Unity",
+          name: "Firebase Database",
           level: 0.8,
         ),
         ContentSkill(
-          name: "Retrofit",
+          name: "MySQL",
+          level: 0.7,
+        ),
+        ContentSkill(
+          name: "CSS",
+          level: 0.8,
+        ),
+        ContentSkill(
+          name: "HTML",
           level: 0.9,
-        ),
-        ContentSkill(
-          name: "MVVM \nLive Data",
-          level: 0.8,
         ),
       ],
       contentWorkHistories: [
