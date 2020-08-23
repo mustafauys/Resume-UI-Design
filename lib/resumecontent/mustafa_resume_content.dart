@@ -31,25 +31,18 @@ class MustafaResumeContent {
       contentEducation: [
         ContentEducation(
             type: "University",
-            name: "University of Gujrat",
-            title: "Information Technology",
-            grade: "3.44 CGPA",
-            year: "2014",
+            name: "Mersin Universitesi",
+            title: "BTBS",
+            grade: "3.50 CGPA",
+            year: "2018",
             description: ""),
         ContentEducation(
-            type: "Collage",
-            name: "Punjab Collage Islamabad",
-            title: "Computer Science",
-            grade: "A Grade",
-            year: "2010",
+            type: "High school",
+            name: "Aliya İzzetbegoviç Mesleki ve Teknik Anadolu Lisesi",
+            title: "Web Tasarım",
+            grade: "78.00",
+            year: "2013",
             description: ""),
-        ContentEducation(
-            type: "School",
-            name: "The Cambridge School",
-            title: "Computer Science",
-            grade: "A Grade",
-            year: "2008",
-            description: "")
       ],
       contentSkills: [
         ContentSkill(
