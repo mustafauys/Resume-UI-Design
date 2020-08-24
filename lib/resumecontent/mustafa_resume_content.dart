@@ -18,15 +18,10 @@ class MustafaResumeContent {
           stackOverFlow:
               "https://stackoverflow.com/users/story/14149565",
           contactNumber: "0553 808 1894"),
-      aboutMe: "Solutions-driven professional having experience driving full"
-          " lifecycle design and engineering high performance mobile applications."
-          " Known for writing efficient, maintainable and reusable code that preserves privacy and security."
-          " I love to keep my hands dirty in coding, designing solutions, code review &  in most of all kind of tech work."
-          " Experienced in executing all phases of software development lifecycle, from Conceptual design through development,"
-          " testing, and enhancement. Strengths include responsible, innovative and team player."
-          " Highly motivated person with the ability to learn new technologies and methodologies,"
-          " and highly conceptual with excellent communication,"
-          " inter personal and organizational skills with ability to perform interdependently and as team.",
+      aboutMe: "I spend the general time of my day in front of the computer. I am happy to learn new things and have ideas that I do not know."
+      "I am curious, hungry for learning and passionate."
+      "I want to improve myself and go one step further in his day."
+      "I think it is at the beginning of the steps and I want to climb these steps in the most accurate and fast way.",
       reference: "Available on request",
       contentEducation: [
         ContentEducation(
@@ -34,14 +29,14 @@ class MustafaResumeContent {
             name: "Mersin Universitesi",
             title: "BTBS",
             grade: "3.50 CGPA",
-            year: "2018",
+            year: "2018- 2022",
             description: ""),
         ContentEducation(
-            type: "High school",
+            type: "High School",
             name: "Aliya İzzetbegoviç Mesleki ve Teknik Anadolu Lisesi",
             title: "Web Tasarım",
             grade: "78.00",
-            year: "2013",
+            year: "2013 - 2017",
             description: ""),
       ],
       contentSkills: [
