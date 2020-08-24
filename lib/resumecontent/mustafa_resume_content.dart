@@ -67,21 +67,15 @@ class MustafaResumeContent {
       ],
       contentWorkHistories: [
         ContentWorkHistory(
-          companyName: "Netsol Technologies Ltd.",
-          designation: "Pr. Software Engineer",
-          duration: "Oct 2015 - Present",
+          companyName: "TheMasspace",
+          designation: "Mobile Application Developer",
+          duration: "June 2020 - Present",
           isCurrent: true,
         ),
         ContentWorkHistory(
-          companyName: "Ozi Technologies Ltd.",
-          designation: "Software Engineer",
-          duration: "Nov 2014 - Oct 2015",
-          isCurrent: false,
-        ),
-        ContentWorkHistory(
-          companyName: "Vanilla Arcade",
-          designation: "Software Engineer",
-          duration: "May 2014 - Nov 2014",
+          companyName: "Akhisar Adliye Sarayı",
+          designation: "Data Processor",
+          duration: "July 2016 - August 2016",
           isCurrent: false,
         ),
       ],
@@ -164,16 +158,16 @@ class MustafaResumeContent {
       ],
       communityWorkList: [
         ContentExperience(
-          title: "Flutter application Resume UI design",
+          title: "Red Crescent Donation Volunteer",
           description:
-              "Design and Develop beautiful interacive Resume/CV in flutter & Dart",
-          link: "https://github.com/zeeshan5422/flutter-resume-design",
+              "We donate blood to those in need",
+          link: "https://www.kizilay.org.tr/",
         ),
         ContentExperience(
-          title: "Searchable Spinner Library",
+          title: "Babytube",
           description:
-              "Searchable Spinner written in Kotlin, which support searching items, click events, sorting and some other features.",
-          link: "https://github.com/zeeshan5422/Searchable-Spinner-Kotlin",
+              "The platform where we share educational and instructive videos for babies according to demand.",
+          link: "https://github.com/serhatsait/babyTube-v3.0",
         ),
       ],
       interestList: [
@@ -190,8 +184,8 @@ class MustafaResumeContent {
           icon: FontAwesomeIcons.bicycle,
         ),
         ContentInterest(
-          title: "Hiking",
-          icon: FontAwesomeIcons.hiking,
+          title: "Research",
+          icon: FontAwesomeIcons.researchgate,
         ),
         ContentInterest(
           title: "Helping Hands",
