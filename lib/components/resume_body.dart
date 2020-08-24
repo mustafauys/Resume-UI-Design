@@ -35,7 +35,7 @@ class ResumeBody extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.start,
         children: <Widget>[
-          HeaderTitle(mTitle: TitleModel("About me")),
+          HeaderTitle(mTitle: TitleModel("About Me")),
           _content([_paragraph(resumeContent.aboutMe, context)]),
           HeaderTitle(mTitle: TitleModel("Education")),
           _content(
