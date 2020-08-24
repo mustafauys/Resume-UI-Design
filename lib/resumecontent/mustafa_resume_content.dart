@@ -91,61 +91,10 @@ class MustafaResumeContent {
                 "I developed a detailed interface in the environment of my personal resume.",
             link: "https://github.com/UysalMustafaa/Resume-UI-Design"),
         ContentExperience(
-            title: "mCollector system for OTO Multiartha",
+            title: "Memory Card Game",
             description:
-                "This is an enterprise level finance and leasing payment collection system for an Indonesian group (OTO Multiartha Group). Use Room as database layer, retrofit as Network layer. Supporting the production environment which involves investigating and solving as they appear",
-            link: ""),
-        ContentExperience(
-            title: "mPOS system for OTO Multiartha",
-            description:
-                "This is an enterprise level finance and leasing system for an Indonesian group (OTO Multiartha Group) my major contribution is in rentals and insurance calculation area and developing complex UI design and managed huge amount of data in efficient way. Use SQLite as database layer, loopJ as Network layer. Supporting the production environment which involves investigating and solving as they appear.",
-            link: ""),
-        ContentExperience(
-            title: "Mobile Field Investigation system(mFI)",
-            description:
-                "Develop full application UI flow and bind all application with data layer.",
-            link: ""),
-        ContentExperience(
-            title:
-                "Development in Literacy (DIL) NGO. (Children Education system)",
-            description:
-                "This includes managing children classes lectures, online tests, playing videos, application data is handled by server. Use realm as a database layer, Volley as network layer.",
-            link: ""),
-        ContentExperience(
-            title: "mPOS MBF Car Financing System",
-            description:
-                "This is an enterprise level finance and leasing system for an Indonesian group (Mihuzo Balimor Finance Group) my major contribution is in rentals and insurance calculation area and developing complex UI design and managed huge amount of data in efficient way.",
-            link: ""),
-        ContentExperience(
-          title: "Bike King Racing game",
-          description:
-              "This 3d Game made in Unity, Term base multi player game it includes asset downloading from server, major contribution is making smooth gameplay and developed start to end UI flow.",
-          link: "",
-        ),
-        ContentExperience(
-          title: "Mirrage",
-          description: "",
-          link:
-              "https://play.google.com/store/apps/details?id=com.itchyfingerz.shadowball",
-        ),
-        ContentExperience(
-          title: "Ninja Warrior Assassin 3D",
-          description: "",
-          link:
-              "https://play.google.com/store/apps/details?id=com.kick.ninja.warrior.attack",
-        ),
-        ContentExperience(
-          title: "Rescue Boats",
-          description: "",
-          link:
-              "https://play.google.com/store/apps/details?id=com.socketapps.rescue.boats.life.survival",
-        ),
-        ContentExperience(
-          title: "Easy Touch maker3D",
-          description: "Develop Easy touch play maker plugin in unity ",
-          link:
-              "https://play.google.com/store/apps/details?id=com.kick.ninja.warrior.attack",
-        ),
+                "Here is a game where we try to match the numbers that are the same",
+            link: "https://github.com/UysalMustafaa/Card"),
       ],
       communityWorkList: [
         ContentExperience(
