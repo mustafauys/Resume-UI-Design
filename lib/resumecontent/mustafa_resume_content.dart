@@ -81,24 +81,15 @@ class MustafaResumeContent {
       ],
       contentExperience: [
         ContentExperience(
-            title: "Client Production and UAT Support Exposure in Indonesia",
+            title: "Tic-Tac-Toe Game",
             description:
-                "Two time experienced in providing client production and UAT support on live project in Indonesia for 2 months that includes"
-                " Handle client queries, complaints, and help to resolve customer and client business relation. Trouble-shooting production"
-                " incidents requiring detailed analysis and provide intermediate solution of business-related problems. Analyze production"
-                " issues to determine root cause and provides fix recommendations to the development team. Support applications in production."
-                " Note interruptions or bugs in operation and perform problem solving exercise to determine problem and ensure continued use of"
-                " the application Create, develop, and track solutions to application errors reported.",
-            link: ""),
+                "The O,X that two people play together is that game.",
+            link: "https://github.com/UysalMustafaa/Tic-Tac-Toe"),
         ContentExperience(
-            title: "Base Architecture for Android Development",
+            title: "Resume UI Design",
             description:
-                "This include UI components, network layer wrapper on Retrofit, database layer wrapper on Room,"
-                " base validation execution architecture, Thread pooling for multi-threading,"
-                " command pattern execution (sync & async, abstraction Base Fragment for MVVM and Two-way Databinding,"
-                " Data Binding Adapters, Data validation and data sharing between 20+ fragments."
-                " wrapper class on Mutable live data, Custom Date picker, Time Picker Dialogs, real time masking Edit Text, custom views.",
-            link: ""),
+                "I developed a detailed interface in the environment of my personal resume.",
+            link: "https://github.com/UysalMustafaa/Resume-UI-Design"),
         ContentExperience(
             title: "mCollector system for OTO Multiartha",
             description:
