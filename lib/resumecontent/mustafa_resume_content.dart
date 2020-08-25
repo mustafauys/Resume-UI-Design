@@ -95,6 +95,11 @@ class MustafaResumeContent {
             description:
                 "Here is a game where we try to match the numbers that are the same",
             link: "https://github.com/UysalMustafaa/Card"),
+        ContentExperience(
+            title: "Dinamik Blog",
+            description:
+                "It is a web page with a user panel where you will dynamically share information and personal development.",
+            link: "https://github.com/UysalMustafaa/Dinamik-Blog"),
       ],
       communityWorkList: [
         ContentExperience(
