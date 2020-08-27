@@ -106,6 +106,11 @@ class MustafaResumeContent {
             description:
                 "It is a program where we can input and output books received or delivered from the library.",
             link: "https://github.com/UysalMustafaa/Kutuphane-Sistemi"),
+        ContentExperience(
+            title: "KotlinCatchTheKenny",
+            description:
+                "We are working on a small application where we try to quickly click on the random monster on the screen with the mouse.",
+            link: "https://github.com/UysalMustafaa/KotlinCatchTheKenny"),
       ],
       communityWorkList: [
         ContentExperience(
