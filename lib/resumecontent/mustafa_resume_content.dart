@@ -116,6 +116,11 @@ class MustafaResumeContent {
             description:
                 "A simple application that will help the user to learn the basic features of the zodiac signs.",
             link: "https://github.com/UysalMustafaa/Burc_Rehberi"),
+        ContentExperience(
+            title: "Translator Calculator",
+            description:
+                "The application that calculates the average of the points you get from your courses at the end of the year at the university from a score above four.",
+            link: "https://github.com/UysalMustafaa/Ortalama-Hesapla"),
       ],
       communityWorkList: [
         ContentExperience(
