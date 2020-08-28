@@ -111,6 +111,11 @@ class MustafaResumeContent {
             description:
                 "We are working on a small application where we try to quickly click on the random monster on the screen with the mouse.",
             link: "https://github.com/UysalMustafaa/KotlinCatchTheKenny"),
+        ContentExperience(
+            title: "Horoscope Guide",
+            description:
+                "A simple application that will help the user to learn the basic features of the zodiac signs.",
+            link: "https://github.com/UysalMustafaa/Burc_Rehberi"),
       ],
       communityWorkList: [
         ContentExperience(
