@@ -114,7 +114,7 @@ class MustafaResumeContent {
         ContentExperience(
             title: "Horoscope Guide",
             description:
-                "A simple application that will help the user to learn the basic features of the zodiac signs.",
+                "An application that deals with features and basic information about the horoscopes.",
             link: "https://github.com/UysalMustafaa/Burc_Rehberi"),
         ContentExperience(
             title: "Translator Calculator",
