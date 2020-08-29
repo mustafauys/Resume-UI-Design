@@ -119,7 +119,7 @@ class MustafaResumeContent {
         ContentExperience(
             title: "Translator Calculator",
             description:
-                "The application that calculates the average of the points you get from your courses at the end of the year at the university from a score above four.",
+                "The program that calculates the averages and not the courses in the university.",
             link: "https://github.com/UysalMustafaa/Ortalama-Hesapla"),
       ],
       communityWorkList: [
