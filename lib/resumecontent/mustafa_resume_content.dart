@@ -14,14 +14,14 @@ class MustafaResumeContent {
           designation: "Mobile Developer",
           email: "uysall.mustafaa@gmail.com",
           github: "https://github.com/UysalMustafaa",
-          linkedIn: "https://www.linkedin.com/in/mustafa-uysal-a7270517b/",
-          stackOverFlow:
-              "https://stackoverflow.com/users/story/14149565",
-          contactNumber: "0553 808 1894"),
-      aboutMe: "I spend the general time of my day in front of the computer. I am happy to learn new things and have ideas that I do not know."
-      "I am curious, hungry for learning and passionate."
-      "I want to improve myself and go one step further in his day."
-      "I think it is at the beginning of the steps and I want to climb these steps in the most accurate and fast way.",
+          linkedIn: "https://www.linkedin.com/in/uysalmustafaa/",
+          stackOverFlow: "https://stackoverflow.com/users/story/14149565",
+          contactNumber: "0542 555 5555"),
+      aboutMe:
+          "I spend the general time of my day in front of the computer. I am happy to learn new things and have ideas that I do not know."
+          "I am curious, hungry for learning and passionate."
+          "I want to improve myself and go one step further in his day."
+          "I think it is at the beginning of the steps and I want to climb these steps in the most accurate and fast way.",
       reference: "Available on request",
       contentEducation: [
         ContentEducation(
@@ -35,7 +35,7 @@ class MustafaResumeContent {
             type: "High School",
             name: "Aliya İzzetbegoviç Mesleki ve Teknik Anadolu Lisesi",
             title: "Web Tasarım",
-            grade: "78.00",
+            grade: "90.00",
             year: "2013 - 2017",
             description: ""),
       ],
@@ -82,8 +82,7 @@ class MustafaResumeContent {
       contentExperience: [
         ContentExperience(
             title: "Tic-Tac-Toe Game",
-            description:
-                "The O,X that two people play together is that game.",
+            description: "The O,X that two people play together is that game.",
             link: "https://github.com/UysalMustafaa/Tic-Tac-Toe"),
         ContentExperience(
             title: "Resume UI Design",
@@ -100,7 +99,6 @@ class MustafaResumeContent {
             description:
                 "It is a web page with a user panel where you will dynamically share information and personal development.",
             link: "https://github.com/UysalMustafaa/Dinamik-Blog"),
-
         ContentExperience(
             title: "Library System",
             description:
@@ -125,8 +123,7 @@ class MustafaResumeContent {
       communityWorkList: [
         ContentExperience(
           title: "Red Crescent Donation Volunteer",
-          description:
-              "We donate blood to those in need",
+          description: "We donate blood to those in need",
           link: "https://www.kizilay.org.tr/",
         ),
         ContentExperience(

@@ -61,7 +61,7 @@ class ResumeHeader extends StatelessWidget {
                       radius: 75,
                       backgroundColor: Theme.of(context).primaryColorLight,
                       backgroundImage:
-                          AssetImage("assets/images/resume_image.jpg"),
+                          AssetImage("assets/images/resume_image.png"),
                     ),
                   ),
                   Expanded(
