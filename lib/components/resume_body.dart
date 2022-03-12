@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:template/components/resume_experience.dart';
 import 'package:template/components/resume_interest.dart';
 import 'package:template/components/resume_skills.dart';

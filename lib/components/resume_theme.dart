@@ -13,8 +13,7 @@ class ResumeTheme {
   static TextStyle titleText(BuildContext context) {
     return Theme.of(context)
         .textTheme
-        // ignore: deprecated_member_use
-        .headline
+        .headline6
         .copyWith(color: Theme.of(context).primaryColorDark);
   }
 
@@ -27,24 +26,21 @@ class ResumeTheme {
   static TextStyle subTitleText(BuildContext context) {
     return Theme.of(context)
         .textTheme
-        // ignore: deprecated_member_use
-        .subtitle
+        .subtitle2
         .copyWith(color: Theme.of(context).primaryColor);
   }
 
   static TextStyle description1Text(BuildContext context) {
     return Theme.of(context)
         .textTheme
-        // ignore: deprecated_member_use
-        .body2
+        .bodyText2
         .copyWith(color: Theme.of(context).primaryColorDark);
   }
 
   static TextStyle description2Text(BuildContext context) {
     return Theme.of(context)
         .textTheme
-        // ignore: deprecated_member_use
-        .body1
+        .bodyText2
         .copyWith(color: Theme.of(context).primaryColorDark);
   }
 }

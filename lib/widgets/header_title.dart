@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:template/components/resume_theme.dart';
 import 'package:template/models/title_model.dart';
 
